@@ -1,0 +1,20 @@
+# Ignore files and directories that may be created during Node.js application runtime
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Ignore IDE configuration and code editor settings files
+.idea/
+.vscode/
+.DS_Store
+
+# Ignore temporary files
+*.swp
+*~
+
+# Ignore Chrome local files
+chrome-debug-profile
+
+dump
